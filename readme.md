@@ -1,5 +1,4 @@
 # serverless-test
-> <b>serverless</b>
 
 An awesome project to run Desktop API tests in serverless environment
 
