@@ -59,7 +59,8 @@ serverless deploy --function testFunc --stage dev
 Your function will be available via API Gateway:
 - API Gateway: GET https://m14kkupz623139.execute-api.us-east-1.amazonaws.com/dev/testFunc
 
-### Links
+
+## Links
 
 - Issue tracker: https://q4websystems.atlassian.net/secure/RapidBoard.jspa?rapidView=171
 - Related projects:
