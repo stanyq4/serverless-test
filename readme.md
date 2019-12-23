@@ -1,6 +1,6 @@
-# serverless-test
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
-![Add a no-maintenance-intended]
+# serverless-test
 
 An awesome project to run Desktop API tests in serverless environment
 
