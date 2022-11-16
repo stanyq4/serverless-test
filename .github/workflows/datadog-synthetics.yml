@@ -14,10 +14,10 @@
 name: Run Datadog Synthetic tests
 
 on:
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
+  workflow_run:
+    workflows: [Deploy master branch]
+    types:
+      - completed
 
 jobs:
   build:
